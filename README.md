@@ -1,7 +1,7 @@
 #  Muhammet ALKAN
 
 <p aligh= "left">
- <h4>◻ Final year software engineering student focused on Backend and interested in Cloud.</h4>
+ <h4>◻ New grad software engineer focused on Backend and interested in Cloud.</h4>
   <h4>◻ You can read my blogs in Medium, and connect me on LinkedIn</h4>
  <a href="https://medium.com/@muhammetalkan">
     <img align="left" alt="Medium" width="200px" style="padding-right:10px;" alt="blog" title="Follow me on Medium" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg"/></a>          
